@@ -26,8 +26,8 @@ class Header extends Component {
 			return (
 				<div className="App-header">
 				   <img src={logo} className="App-logo" alt="logo" /> 
-					 <h8> {textparameter} </h8> 
-					 <h9> {secparam} </h9>
+					 <h6> {textparameter} </h6> 
+					 <h6> {secparam} </h6>
 				</div>
 			
 		)

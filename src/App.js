@@ -5,7 +5,8 @@ import Submit from './Components/Submit.js';
 import Contvsuncontinputs from './Components/Contvsuncontinputs.js';
 import Continuofconvsuncont from './Components/Coninuofcontvsunc.js'; 
 import Continueone from './Components/Continueone.js'; 
-import Iterate from './Components/Iterate.js'
+import Iterate from './Components/Iterate.js'; 
+import Pproptypes from './Components/Pproptypes.js'; 
 
 
 
@@ -26,6 +27,8 @@ class App extends Component {
         <Continueone/>
         <hr/>
         <Iterate/> 
+        <hr/>
+        <Pproptypes /> 
 
         
 

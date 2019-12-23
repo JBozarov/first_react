@@ -22,10 +22,11 @@ class Continuofconvsuncont extends Component {
   }
 
   
+  
   updateValue =(event)=>{
     this.setState({
       one: event.target.value, 
-    })
+    });
   }
 
 
