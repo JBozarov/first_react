@@ -5,6 +5,8 @@ import Submit from './Components/Submit.js';
 import Contvsuncontinputs from './Components/Contvsuncontinputs.js';
 import Continuofconvsuncont from './Components/Coninuofcontvsunc.js'; 
 import Continueone from './Components/Continueone.js'; 
+import Iterate from './Components/Iterate.js'
+
 
 
 class App extends Component {
@@ -22,6 +24,11 @@ class App extends Component {
         <Continuofconvsuncont/>
         <hr/>
         <Continueone/>
+        <hr/>
+        <Iterate/> 
+
+        
+
 
       </div>
     )
